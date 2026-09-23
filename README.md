@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1h0vg9qk6LE8M2VXDOJDNJEP_319jvnuq/view?usp=shari
 ## Python problem 
 
 Program 1: Binary number divisible by 5
-
+```
 numbers = input().split(",")
 result = []
 for num in numbers:
@@ -18,9 +18,9 @@ for num in numbers:
     if decimal % 5 == 0:
         result.append(num)
 print(",".join(result))
-
+```
 Program 2: No of alphabets and number 
-
+```
 text = input()
 letters = 0
 digits = 0
@@ -31,13 +31,15 @@ for ch in text:
         digits += 1
 print("LETTERS", letters)
 print("DIGITS", digits)
-
+```
 Program 3: Finding Factorial
-
+```
 num = int(input())
 factorial = 1
 for i in range(1, num + 1):
     factorial = factorial * i
 print(factorial)
+```
 
 
+``
