@@ -40,7 +40,9 @@ for i in range(1, num + 1):
     factorial = factorial * i
 print(factorial)
 ```
+## Activity (05/10/2026)
 
+https://drive.google.com/file/d/1b9sxt7Oq-aWuCceSH4D-Kc1NoANnr3dw/view?usp=sharing
 
 ## (29/09/2026) Assignment
 
